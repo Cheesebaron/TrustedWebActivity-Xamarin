@@ -1,0 +1,13 @@
+<resources>
+	<string name="app_name">Basic TWA</string>
+	<string name="asset_statements">
+		[{
+		\"relation\": [\"delegate_permission/common.handle_all_urls\"],
+		\"target\": {
+		\"namespace\": \"web\",
+		\"site\": \"https://airhorner.com/\"}
+		}
+		]
+	</string>
+	<string name="provider_authority">com.google.browser.examples.twa_basic.fileprovider</string>
+</resources>

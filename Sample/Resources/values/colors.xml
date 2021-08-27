@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="themecolor">#303F9F</color>
+	<color name="colorprimary">#303F9F</color>
+	<color name="colorprimarydark">#00FF00</color>
+	<color name="coloraccent">#00FF00</color>
+	<color name="navigationcolor">#303F9F</color>
+	<color name="navigationcolordark">#FF0000</color>
+
+	<color name="backgroundcolor">#BABABA</color>
+</resources>
